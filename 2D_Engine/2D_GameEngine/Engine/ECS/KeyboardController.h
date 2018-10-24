@@ -28,7 +28,7 @@ public:
 
 		int x = transform->position.x;
 		int y = transform->position.y;
-		if (y % 64 != 0 && x % 64 != 0) return;
+		if (y % 32 != 0 || x % 32 != 0) return;
 		if (Game::event.type == SDL_KEYDOWN)
 		{
 			switch (Game::event.key.keysym.sym)
