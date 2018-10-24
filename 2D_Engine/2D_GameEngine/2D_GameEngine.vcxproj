@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Engine\Additions\Vector2D.cpp" />
+    <ClCompile Include="Engine\ECS\Collision.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Map.cpp" />
@@ -27,6 +28,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine\Additions\Vector2.h" />
+    <ClInclude Include="Engine\ECS\ColliderComponent.h" />
+    <ClInclude Include="Engine\ECS\Collision.h" />
     <ClInclude Include="Engine\ECS\Components.h" />
     <ClInclude Include="Engine\ECS\ECS.h" />
     <ClInclude Include="Engine\ECS\KeyboardController.h" />
@@ -47,6 +50,7 @@
     <Image Include="assets\char2.png" />
     <Image Include="assets\Dirt1.png" />
     <Image Include="assets\Grass1.png" />
+    <Image Include="assets\Wall1.png" />
     <Image Include="assets\Water1.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

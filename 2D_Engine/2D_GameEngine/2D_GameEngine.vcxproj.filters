@@ -30,6 +30,9 @@
     <ClCompile Include="Engine\Additions\Vector2D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Engine\ECS\Collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -59,6 +62,12 @@
     <ClInclude Include="Engine\ECS\KeyboardController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Engine\ECS\ColliderComponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\ECS\Collision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="libpng16-16.dll" />
@@ -80,6 +89,9 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="assets\char2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Wall1.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
