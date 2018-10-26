@@ -1,10 +1,8 @@
 ﻿  Game.cpp
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\keyboardcontroller.h(29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\unityingames\desktop\project\n2de\2d_engine\2d_gameengine\engine\ecs\keyboardcontroller.h(30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  2D_GameEngine.vcxproj -> C:\Users\UnityInGames\Desktop\Project\N2DE\2D_Engine\x64\Debug\2D_GameEngine.exe
+c:\users\unityingames\desktop\project\n2de world\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unityingames\desktop\project\n2de world\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unityingames\desktop\project\n2de world\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\unityingames\desktop\project\n2de world\2d_engine\2d_gameengine\engine\ecs\transformcomponent.h(49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\unityingames\desktop\project\n2de world\2d_engine\2d_gameengine\engine\ecs\keyboardcontroller.h(29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\unityingames\desktop\project\n2de world\2d_engine\2d_gameengine\engine\ecs\keyboardcontroller.h(30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  2D_GameEngine.vcxproj -> C:\Users\UnityInGames\Desktop\Project\N2DE World\2D_Engine\x64\Debug\2D_GameEngine.exe
