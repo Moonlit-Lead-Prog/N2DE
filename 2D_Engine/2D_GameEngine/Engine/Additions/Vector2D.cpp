@@ -88,7 +88,21 @@ Vector2& Vector2::operator/=(const Vector2& vec)
 	return this->Divide(vec);
 }
 
+Vector2& Vector2::operator*(const int& i)
+{
+	this->x *= i;
+	this->y *= i;
+	
+	return *this;
+}
 
+Vector2& Vector2::Zero()
+{
+	this->x = 0;
+	this->y = 0;
+
+	return *this;
+}
 
 std::ostream& operator<<(std::ostream& stream, const Vector2& vec)
 {
